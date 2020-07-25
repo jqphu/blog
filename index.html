@@ -12,7 +12,13 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <!-- TODO: Share this with posts.html -->
+    <span class="post-date">
+      {% assign words = post.content | number_of_words %}
+      {{ post.date | date_to_string }} -
+      {{ words | divided_by:180 }} mins
+    </span>
+
 
     {{ post.content | truncatewords: 60, "..." }}
 
