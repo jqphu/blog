@@ -14,20 +14,11 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.content | truncatewords: 100, "..." }}
 
-
-    <!-- Comments start here! -->
-    <div id="hyvor-talk-view"></div>
-    <script type="text/javascript">
-      var HYVOR_TALK_WEBSITE = 1314; // DO NOT CHANGE THIS
-var HYVOR_TALK_CONFIG = {
-  url: '{{ page.url | absolute_url }}',
-  id: '{{page.id}}'
-};
-    </script>
-    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
-    <!-- Comments end here! -->
+    <br>
+    <br>
+    <i><a href = "{{post.url | absolute_url }}">Click to see the full post and comment.</a></i>
 
   </div>
   {% endfor %}
