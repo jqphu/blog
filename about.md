@@ -1,29 +1,25 @@
 ---
 layout: page
-title: About
+title: Welcome
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! I'm Justin, it's very nice to meet you. Here's a little bit about me:
+* I'm a 23 year old Australia living in California.
+* I like building things and sometimes they work.
+* Current interests are:
+  * Operating Systems
+  * Augmented Reality
+  * Home automation
+  * Rust
+* This list of dotpoints is starting to sound like a cross between my resume and tinder bio.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-There are currently two themes built on Poole:
+# Contact!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Feel free to contact me. I'm always happy to meet new people!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<a href="https://twitter.com/jqphu" class="fa fa-twitter fa-4x"></a>
+<a href="https://www.twitch.tv/jqphu" class="fa fa-twitch fa-4x"></a>
+<a href="https://github.com/jqphu/" class="fa fa-github fa-4x"></a>
+<a href="https://www.instagram.com/justinqphu/" class="fa fa-instagram fa-4x"></a>
