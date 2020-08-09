@@ -123,6 +123,14 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/**
+ * Nanobar - progress bar
+ */
+.nanobar .bar {
+  background: #add8e6;
+  position: absolute;
+}
+
 
 /*
  * Sidebar

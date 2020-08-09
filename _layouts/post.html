@@ -9,7 +9,9 @@ layout: default
     {{ page.date | date_to_string }} -
     {{ words | divided_by:180 }} mins
   </span>
+  <div id="content">
   {{ content }}
+  </div>
 
     <!-- Comments start here! -->
     <div id="hyvor-talk-view"></div>
@@ -22,6 +24,12 @@ var HYVOR_TALK_CONFIG = {
     </script>
     <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
     <!-- Comments end here! -->
+
+    <!-- Reading nanobar -->
+    <script src="/assets/javascript/nanobar-master/nanobar.min.js"></script>
+
+    <!-- Custom progress indicator -->
+    <script src="/assets/javascript/scripts/nanobar_content_progress.js"></script>
 
 </div>
 
