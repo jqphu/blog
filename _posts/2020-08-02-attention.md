@@ -4,7 +4,7 @@ title: Give Me Your Attention
 ---
 
 > The alarm starts blaring. After snoozing multiple times I roll over and finally dismiss the alarm.
-> Lying in bed; I start scrolling through my Instagram feed and check my work emails.  I slowly drag
+> Lying in bed I start scrolling through my Instagram feed and check my work emails.  I slowly drag
 > myself out of bed, hop into the shower and jump straight onto the computer to start working. I
 > work for hours on end and before I know it, it is 6pm. I eat dinner whilst watching YouTube videos
 > and eventually hop into bed still watching my YouTube videos. Lying in bed I aimlessly look for
