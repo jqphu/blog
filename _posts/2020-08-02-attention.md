@@ -8,7 +8,7 @@ title: Give Me Your Attention
 > myself out of bed, hop into the shower and jump straight onto the computer to start working. I
 > work for hours on end and before I know it, it is 6pm. I eat dinner whilst watching YouTube videos
 > and eventually hop into bed still watching my YouTube videos. Lying in bed I aimlessly look for
-> anything that catches my attentino until I can barely keep my eyes open. I fall asleep and repeat
+> anything that catches my attention until I can barely keep my eyes open. I fall asleep and repeat
 > the whole cycle again the next day.
 
 This type of day seems almost normal in the 21st century. We mindlessly go through the motions of
