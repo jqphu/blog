@@ -5,6 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  {% unless post.tags contains 'draft' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -27,6 +28,7 @@ title: Home
     <i><a href = "{{post.url | absolute_url }}">Click to see the full post and comment.</a></i>
 
   </div>
+  {% endunless %}
   {% endfor %}
 </div>
 

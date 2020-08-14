@@ -38,6 +38,7 @@ var HYVOR_TALK_CONFIG = {
   <h2>Related posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
+    {% unless post.tags contains 'draft' %}
       <li>
         <h3>
           <a href="{{ site.baseurl }}{{ post.url }}">
@@ -46,6 +47,7 @@ var HYVOR_TALK_CONFIG = {
           </a>
         </h3>
       </li>
+    {% endunless %}
     {% endfor %}
   </ul>
 </div>
