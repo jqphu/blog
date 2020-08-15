@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Comparison Conundrum
-tags: draft
 ---
 
 Having some down time after work and feeling a little disconnected from my friends I decided to
@@ -93,7 +92,7 @@ environment to reinforce my automatic behavior.
 
 ## Disconnect to Reconnect
 
-Cal Newport in his book [Digital Minimialism](https://www.calnewport.com/books/digital-minimalism/) talks about
+Cal Newport in his book [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) talks about
 a digital detox. Take a break from social media and slowly bring things back in where you recognize
 the value. Break out of the mindless cycle and take a third-person perspective on which types of
 comparison are beneficial and which are not.
