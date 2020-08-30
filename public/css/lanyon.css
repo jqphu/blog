@@ -564,3 +564,13 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * Table of contents style.
+ */
+.toc {
+    border: 1px solid #aaa;
+    font-size: 75%;
+    list-style: decimal;
+    display: inline-block;
+}

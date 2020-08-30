@@ -17,6 +17,9 @@ author:
 plugins:
   - jekyll-paginate
 
+kramdown:
+  parse_block_html: true
+
 highlighter: rouge
 
 # Custom vars

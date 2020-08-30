@@ -10,10 +10,11 @@ layout: default
     {{ words | divided_by:180 }} mins
   </span>
   <div id="content">
-  {{ content }}
+    {% include toc.html html=content class="toc" %}
+    {{ content }}
   </div>
 
-    <!-- Comments start here! -->
+      <!-- Comments start here! -->
     <div id="hyvor-talk-view"></div>
     <script type="text/javascript">
       var HYVOR_TALK_WEBSITE = 1314; // DO NOT CHANGE THIS
