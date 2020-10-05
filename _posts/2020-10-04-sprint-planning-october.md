@@ -9,13 +9,13 @@ this half this half we will stay true to the theme of the half which is laying t
 
 The goal of this sprint will be **foundations**.
 
-## Events
+# Events
 * Might take a single day off somewhere.
   * Not entirely confident on this one, might want to save up my leave to go back to Australia.
 * Attempting to move more of my messenger conversations to video calls. Not sure how this will go
   but I'm always down to experiment.
 
-### Australia?
+## Australia?
 Original plan was to go back to Australia end of this sprint. A few complications have turned up.
 * Can't seem to find non-stop flights from SFO to SYD. Only option is 1 stop in Vancouver totaling
   21 hr flight time + 3 hour stop. I hate flying as is already but if this were the only
@@ -32,7 +32,7 @@ back to SF by EOY. The increased travel is not worth the risk.
 Tentatively, delay going back to Aus until Jan / Feb when things are hopefully a bit better. This
 means I'll start saving up my paid leave at FB since I might not be able to use my AWA.
 
-## Theme
+# Sprint KRs
 
 The theme of the sprint will be foundations. Although, in the half KR I put being consistent with
 mindless are a very key overall goal I think we need to handle some tech debt first. I think the
@@ -41,7 +41,7 @@ something else. Therefore, this sprint we are going to focus entirely on habits.
 
 Here are the ordered KRs based on relative importance.
 
-# [P0] Key Result 1: Develop a consistent sleeping pattern
+## [P0] Key Result 1: Develop a consistent sleeping pattern
 My arch nemesis - sleep. I very much value sleep, almost too much. Leave me be and I will sleep 12
 hours straight. Anything less than 9 hours of sleep I will start to feel grumpy. Last sprint sleep
 was not a priority and it utterly ruined my productivity and mood.
@@ -62,7 +62,7 @@ routine). Typically, this would be pretty bad for my social life but with COVID 
 anyway. We're going to have to be a bit more sensitive with our time here and be prepared to say no
 or reschedule (which I am always so bad at).
 
-# [P1] Key Result 2: Morning and Night Routines
+## [P1] Key Result 2: Morning and Night Routines
 Self explanatory. Let's get this routine up and running.
 
 I have a whiteboard with the days + the routine goals.
@@ -71,7 +71,7 @@ I have a whiteboard with the days + the routine goals.
 
 As I say every time I try to stick to a routine:  I have a good feeling about this! 
 
-# [P1] Key Result 3: Reading
+## [P1] Key Result 3: Reading
 
 This should simply fall in using my night routine. Calling it out explicitly anyway.
 
@@ -79,7 +79,7 @@ This should simply fall in using my night routine. Calling it out explicitly any
 
 I was going to add finish two books but its a shorter sprint.
 
-# [P0] Key Result 1: Execute on Critical Features
+## [P0] Key Result 1: Execute on Critical Features
 As our main goal we will stick to work as our focus. Let's get the routine in place and then start
 slotting in more mindless development.
 
@@ -87,7 +87,7 @@ slotting in more mindless development.
 
 Bit of a subjective exit criteria but I guess that's the nature of the work.
 
-# [P0] Key Result 1: Exercise
+## [P0] Key Result 1: Exercise
 We're ramping this one up a little. I want to move to start the day, nothing intense like tennis,
 but some kind of simple movement (yoga, quick walk/run around the block, core work). This should
 align with the goal of stability (e.g. if tennis gets cut out of the equation it doesn't mean I have
