@@ -6,7 +6,7 @@ date: 2021-01-18 15:44
 
 A little late to this planning :P. Let's keep it short and sweet!
 
-## [P0] KR: Mindless is used to reflect on OKRs and Sprints
+## [P1] KR: Mindless is used to reflect on OKRs and Sprints
 * Work on mindless on the next two Sundays.
   * Get enough to start tracking work hours is a good start.
 
