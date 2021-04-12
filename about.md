@@ -4,13 +4,12 @@ title: Welcome
 ---
 
 Hey there! I'm Justin, it's very nice to meet you. Here's a little bit about me:
-* I'm a 23 year old Australia living in California.
+* I'm a 24 year old Australia living in California.
 * I like building things and sometimes they work.
 * Current interests are:
   * Operating Systems
   * Augmented Reality
   * Home automation
-  * Rust
 * This list of dotpoints is starting to sound like a cross between my resume and tinder bio.
 
 
