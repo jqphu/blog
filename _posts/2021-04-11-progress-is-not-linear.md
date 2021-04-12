@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Progress Is Not Linear.
+date: 2021-04-11 17:32
 ---
 
 # The Journey
