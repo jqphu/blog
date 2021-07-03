@@ -8,7 +8,7 @@ I spent the last day just dabbling in Ethereum claiming the domain name `jqphu.e
 blog not entirely a self-help blog and be somewhat technical I though it'd go through what on earth
 do I mean by "claiming a domain name on the blockchain".
 
-# Domain Name System (DNS)
+## Domain Name System (DNS)
 
 Let's start with traditional domain name servers. To simplify, every connection on the internet has
 a unique identifier known as an ip address. This can be thought of as your address. If I want to
@@ -61,7 +61,7 @@ github!).
 Great! The oversimplified version is your address is an ip address and the domain is a human
 readable way to lookup your address. The lookup process happens through a domain name system.
 
-# Ethereum Name Servers (ENS)
+## Ethereum Name Servers (ENS)
 
 I'm not going to go into detail about Ethereum but it essentially a decentralized computer or state
 machine. You can modify the state machine through a transaction. A transaction can be thought of as
@@ -91,7 +91,7 @@ fact, you can lookup my domain name (`https://app.ens.domains/name/jqphu.eth/`) 
 information such as my twitter, email, etc. This can go as far as to linking to a static webpage
 that *itself is hosted on the blockchain* but that's for another day.
 
-# Why Do I Care?
+## Why Do I Care?
 
 The reason this is particularly useful is the whole concept of blockchains such that it's
 decentralized. My information is in complete control by me. As long as the blockchain lives and
