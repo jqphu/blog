@@ -10,8 +10,8 @@ Hey there! I'm Justin, it's very nice to meet you. Here's a little bit about me:
   * Operating Systems
   * Augmented Reality
   * Home automation
+* Most of my posts are written in one sitting. One day I'll proof read my posts... 
 * This list of dotpoints is starting to sound like a cross between my resume and tinder bio.
-
 
 # Contact!
 
