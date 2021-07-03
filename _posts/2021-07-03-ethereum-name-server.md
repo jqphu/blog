@@ -75,10 +75,10 @@ For example, my address is `0x1a8906a0EBB799ED4C0e385d7493D11701700d3a`.
 As you can tell, using that address to send money is going to be cumbersome. If you make a typo of
 any sort you've now sent money to the wrong account.
 
-In comes Ethereum Name Servers. They provide the reverse mapping of a domain to an address (and
-more!). The difference with DNS is domain names are stored and hosted by centralized companies (like
-google) whereas with ENS your data is stored directly in the blockchain. This has the pros of being
-decentralized and the cons of being expensive to change. 
+In comes Ethereum Name Servers. They provide the mapping of a domain to an address. The difference
+with DNS is domain names are stored and hosted by centralized companies (like google) whereas with
+ENS your data is stored directly in the blockchain. This has the pros of being decentralized and the
+cons of being expensive to change. 
 
 Now comes the question is, who facilitates the lookup? The trick is there are smart contracts (just
 snippets of code stored directly in the blockchain) that execute to trigger the resolving logic.
