@@ -13,7 +13,7 @@ for this half.
 
 Highlights:
 * Started my first ever therapy sessions.
-* Got myself an [eight sleep])(https://www.eightsleep.com/) mattress (smart everything!).
+* Got myself an [eight sleep](https://www.eightsleep.com/) mattress (smart everything!).
 * Started dating again.
 
 Lowlights:
