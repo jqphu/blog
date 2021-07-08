@@ -156,7 +156,7 @@ If I told the Justin who boarded the flight to San Fransico two years ago about 
 would not believe it. There are areas that he would be impressed, areas where he would be
 disappointed and areas where he would just be plain confused. Sure, the life I dreamed of two years
 ago aren't exactly the life I live but dreams are made to change. There's one thing past Justin
-would be ecstatic to hear which is the happiness that day-to-day life brings me. At the end of the
-day, as these two years go by the accomplishments are not what I remember but all the feeling of joy
-I've had with all the fantastic people I've had the pleasure spend time with. It's been a fun two
-years and I can't wait to see what the next two have in store for me!
+would be ecstatic to hear, which is the amount happiness that day-to-day life brings me. At the end
+of the day, as these two years go by the accomplishments are not what I remember but all the feeling
+of joy I've had with all the fantastic people I've had the pleasure spend time with. It's been a fun
+two years and I can't wait to see what the next two have in store for me!
