@@ -17,7 +17,8 @@ Hey there! I'm Justin, it's very nice to meet you. Here's a little bit about me:
 
 Feel free to contact me. I'm always happy to meet new people!
 
-jqphu.eth
+* [jqphu.eth](https://app.ens.domains/name/jqphu.eth/)
+* [https://mirror.justinphu.dev](https://mirror.justinphu.dev)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <a href="https://twitter.com/jqphu" class="fa fa-twitter fa-4x"></a>
 <a href="https://www.twitch.tv/jqphu" class="fa fa-twitch fa-4x"></a>
