@@ -1,11 +1,16 @@
 ---
-layout: default
-title: Home
+layout: page
+title: Planning Posts
 ---
 
+This is a list of my posts related to planning since <a href = "https://blog.justinphu.dev/2020/08/30/okr/">you are a business</a>!
+
+<hr style="border-width: 5px;">
+
 <div class="posts">
-  {% for post in paginator.posts %}
-  {% unless post.tags contains 'draft' or post.category contains 'planning' %}
+  {% for post in site.posts %}
+  {% unless post.tags contains 'draft' %}
+  {% if post.category contains 'planning' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -29,6 +34,7 @@ title: Home
 
   </div>
   <hr style="border-width: 5px;">
+  {% endif %}
   {% endunless %}
   {% endfor %}
 </div>
