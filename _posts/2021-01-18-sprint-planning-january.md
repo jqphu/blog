@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - January
 date: 2021-01-18 15:44
+category: planning
+hidden: true
 ---
 
 A little late to this planning :P. Let's keep it short and sweet!

@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - April and May
 date: 2021-05-31 10:27
+category: planning
+hidden: true
 ---
 
 Merging April and May since I didn't do any planning for May. 

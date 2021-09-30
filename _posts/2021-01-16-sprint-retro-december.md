@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - December
 date: 2021-01-16 14:38:26
+category: planning
+hidden: true
 ---
 
 Last sprint retrospective of December.

@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - November
 date: 2020-11-01 13:23
+category: planning
+hidden: true
 ---
 
 November is here! This year has flow by!

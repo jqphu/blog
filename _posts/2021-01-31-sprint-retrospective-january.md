@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - January
 date: 2021-01-31 15:44
+category: planning
+hidden: true
 ---
 
 ## Metrics

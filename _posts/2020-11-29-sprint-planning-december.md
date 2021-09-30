@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - December
 date: 2020-11-29 14:50
+category: planning
+hidden: true
 ---
 
 Last month of the year and what a year it has been!

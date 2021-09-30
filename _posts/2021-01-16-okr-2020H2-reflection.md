@@ -2,6 +2,8 @@
 layout: post
 title: OKR Reflection - 2020H2
 date: 2021-01-16 14:50:48
+category: planning
+hidden: true
 ---
 
 A quick post to reflect on how 2020H2!

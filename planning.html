@@ -8,9 +8,8 @@ This is a list of my posts related to planning since <a href = "https://blog.jus
 <hr style="border-width: 5px;">
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.categories.planning %}
   {% unless post.tags contains 'draft' %}
-  {% if post.category contains 'planning' %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
@@ -34,24 +33,6 @@ This is a list of my posts related to planning since <a href = "https://blog.jus
 
   </div>
   <hr style="border-width: 5px;">
-  {% endif %}
   {% endunless %}
   {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
 </div>

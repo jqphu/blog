@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - November
 date: 2020-11-29 13:55:00
+category: planning
+hidden: true
 ---
 
 Another month, another sprint retrospective!

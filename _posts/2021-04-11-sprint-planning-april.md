@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - April
 date: 2021-04-11 16:50
+category: planning
+hidden: true
 ---
 
 ## Notes

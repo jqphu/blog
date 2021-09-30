@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - September
 date: 2020-08-30 17:00:30
+category: planning
+hidden: true
 ---
 
 *This is sprint planning for 2020 September based on my [personal okr

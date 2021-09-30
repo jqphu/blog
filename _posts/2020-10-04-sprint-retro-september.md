@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - September
 date: 2020-10-04 07:17:02
+category: planning
+hidden: true
 ---
 
 The sprints go from the first Saturday of each month so some are slightly longer than others.

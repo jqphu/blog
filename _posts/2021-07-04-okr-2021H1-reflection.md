@@ -2,6 +2,8 @@
 layout: post
 title: OKR Reflection - 2021H2
 date: 2021-07-04 18:40:28
+category: planning
+hidden: true
 ---
 
 ## A Half In Review

@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Planning - September
 date: 2021-09-05 19:45:47
+category: planning
+hidden: true
 ---
 
 Two goals for September:

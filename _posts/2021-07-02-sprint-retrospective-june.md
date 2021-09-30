@@ -2,6 +2,8 @@
 layout: post
 title: Sprint Retrospective - June
 date: 2021-07-02 11:13
+category: planning
+hidden: true
 ---
 
 Last month of the half!
