@@ -3,7 +3,7 @@ layout: post
 title: Open Your Door
 date: 2021-10-24 12:25:30
 ---
-If you've asked how work has been going recently I'd answer with I feel incredibly distracted. Frequent meetings and context context switching. Within the span of a few hours I'll be talking for five different people about five separate problems.
+If you've asked how work has been going recently I'd answer with I feel incredibly distracted. Frequent meetings and context switching. Within the span of a few hours I'll be talking for five different people about five separate problems.
 
 This seems to contradict one of the values I hold  deeply which is you cannot improve without [focusing deeply](https://blog.justinphu.dev/2020/08/02/attention/). I could *feel* these meetings I was having were important but I couldn't explain why[^1].
 
