@@ -60,8 +60,6 @@ Keeping myself open to others who want to discuss and bring forth problems is es
 
 There's a brilliant engineer that I know and whenever I want to talk to him about a topic, he drops what he's working on and talks to me. I can always freely tap him on the shoulder and ask any question. I couldn't understand why he would give up his time to help me with my silly problems. One aspect was he was simply kind and wanted to help me grow. Another aspect is it gives him visibility to the key problems engineers are going through. By being open he invited problems to be brought to his purview. Instead of looking at it as I was wasting his time, I was in fact *saving him time* by identifying problems in the system that needed addressing.
 
-> "The closed door is symbolic of a closed mind." - Richard Hamming in"You and Your Research."
-
 Open your door[^5] to invite new ideas, identify important problems and expand your mind.
 
 ---
