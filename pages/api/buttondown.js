@@ -19,6 +19,7 @@ export default async (req, res) => {
       method: 'POST',
     })
 
+    // TODO: Fix subscribing an account that has been created and unsubscribed.
     if (response.status >= 400) {
       return res.status(500).json({ error: `There was an error subscribing to the list.` })
     }
