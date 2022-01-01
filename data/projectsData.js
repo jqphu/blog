@@ -1,4 +1,5 @@
 const projectsData = [
+  // TODO: Fill in with real project data.
   {
     title: 'A Search Engine',
     description: `What if you could look up any information in the world? Webpages, images, videos
