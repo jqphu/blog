@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Justin\'s Blog',
   author: 'Justin Phu',
   headerTitle: 'Code Monkey',
-  description: 'Random Ramblings',
+  description: 'Trying to make sense of my world.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.justinphu.dev',
