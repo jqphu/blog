@@ -2,7 +2,7 @@
 title: Sprint Retrospective - September
 date: '2020-10-04 07:17:02'
 layout: PostLayout
-tags: []
+tags: ['sprint', 'retro', 'okr']
 ---
 
 The sprints go from the first Saturday of each month so some are slightly longer than others.

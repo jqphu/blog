@@ -2,7 +2,7 @@
 title: Sprint Planning - October
 date: 2021-10-09 19:11
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 ## Retrospective for September:

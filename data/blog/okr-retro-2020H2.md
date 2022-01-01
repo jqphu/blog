@@ -2,7 +2,7 @@
 title: OKR Reflection - 2020H2
 date: 2021-01-16 14:50:48
 layout: PostLayout
-tags: []
+tags: ['retro', 'okr']
 ---
 
 A quick post to reflect on how 2020H2!

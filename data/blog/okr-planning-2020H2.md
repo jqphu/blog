@@ -2,7 +2,7 @@
 title: OKR Planning - 2020H2
 layout: PostLayout
 date: '2020-08-30 15:37:30'
-tags: ['planning']
+tags: ['planning', 'okr']
 ---
 
 This will capture H2 planning from September to EOY December. We missed a few months so this will be

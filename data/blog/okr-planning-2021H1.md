@@ -2,7 +2,7 @@
 title: OKR Planning - 2021H1
 date: 2021-01-18 15:53:18
 layout: PostLayout
-tags: []
+tags: ['planning', 'okr']
 ---
 
 # Theme

@@ -2,7 +2,7 @@
 title: Give Me Your Attention
 layout: PostLayout
 date: '2020-08-02'
-tags: []
+tags: ['attention', 'social']
 ---
 
 > The alarm starts blaring. After snoozing multiple times I roll over and finally dismiss the alarm.

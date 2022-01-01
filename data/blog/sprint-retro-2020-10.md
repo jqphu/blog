@@ -2,7 +2,7 @@
 title: Sprint Retrospective - October
 date: 2020-11-01 10:50:00
 layout: PostLayout
-tags: []
+tags: ['sprint', 'retro', 'okr']
 ---
 
 Another month, another sprint retrospective!

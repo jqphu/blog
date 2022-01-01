@@ -2,7 +2,7 @@
 title: Sprint Planning - Feburary
 date: 2021-01-31 18:01
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 ## [P0] KR: Mindless is used to reflect on OKRs and Sprints

@@ -2,7 +2,7 @@
 title: Sprint Planning - September
 date: 2021-09-05 19:45:47
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 Two goals for September:

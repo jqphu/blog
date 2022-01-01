@@ -2,7 +2,7 @@
 title: Sprint Retrospective - December
 date: 2021-01-16 14:38:26
 layout: PostLayout
-tags: []
+tags: ['sprint', 'retro', 'okr']
 ---
 
 Last sprint retrospective of December.

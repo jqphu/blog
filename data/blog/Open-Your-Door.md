@@ -2,7 +2,7 @@
 title: Open Your Door
 date: 2021-10-24 12:25:30
 layout: PostLayout
-tags: []
+tags: ['self-development']
 ---
 If you've asked how work has been going recently I'd answer with I feel incredibly distracted. Frequent meetings and context switching. Within the span of a few hours I'll be talking for five different people about five separate problems.
 

@@ -2,7 +2,7 @@
 title: You Are A Business
 date: '2020-08-30 14:03:30'
 layout: PostLayout
-tags: []
+tags: ['okr']
 ---
 
 I always have ambitious goals I want to achieve. Whether it be get shredded in time for summer,

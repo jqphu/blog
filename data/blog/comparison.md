@@ -2,7 +2,7 @@
 title: Comparison Conundrum
 layout: PostLayout
 date: '2020-08-13'
-tags: []
+tags: ['compare', 'social']
 ---
 
 Having some downtime after work and feeling a little disconnected from my friends I decided to

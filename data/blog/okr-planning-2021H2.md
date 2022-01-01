@@ -2,7 +2,7 @@
 title: OKR Planning - 2021H2
 date: 2021-07-31 17:30:42
 layout: PostLayout
-tags: []
+tags: ['planning', 'okr']
 ---
 
 It's that time of the year again! 1.5 month late, oops.

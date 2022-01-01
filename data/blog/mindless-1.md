@@ -2,7 +2,7 @@
 title: Mindless[1] - The Journey Thus Far
 layout: PostLayout
 date: '2020-08-15'
-tags: []
+tags: ['mindless']
 ---
 
 Mindless is a project I have been working on with the simple goal of allowing me to be more aware of

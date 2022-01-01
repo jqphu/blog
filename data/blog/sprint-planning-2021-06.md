@@ -2,7 +2,7 @@
 title: Sprint Planning - June
 date: 2021-05-31 13:57
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 ## Notes

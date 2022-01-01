@@ -2,7 +2,7 @@
 title: Sprint Retrospective - April and May
 date: 2021-05-31 10:27
 layout: PostLayout
-tags: []
+tags: ['sprint', 'retro', 'okr']
 ---
 
 Merging April and May since I didn't do any planning for May. 

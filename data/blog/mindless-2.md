@@ -2,7 +2,7 @@
 title: Mindless[2] - A Mindless Week
 layout: PostLayout
 date: '2020-08-29'
-tags: []
+tags: ['mindless']
 ---
 
 # Cheating On Your Exams

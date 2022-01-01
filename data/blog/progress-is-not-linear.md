@@ -2,7 +2,7 @@
 title: Progress Is Not Linear
 date: 2021-04-11 17:32
 layout: PostLayout
-tags: []
+tags: ['self-development', 'progress']
 ---
 
 # The Journey

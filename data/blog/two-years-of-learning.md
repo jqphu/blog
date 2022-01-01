@@ -2,7 +2,7 @@
 title: Two Years Of Learning
 date: 2021-07-07 16:33:06
 layout: PostLayout
-tags: []
+tags: ['learning']
 ---
 
 It has been about two years since I moved to the bay from Australia to join Facebook. What a wild

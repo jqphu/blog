@@ -2,12 +2,8 @@
 title: OKR Reflection - 2020H1
 date: '2020-08-30 15:03:30'
 layout: PostLayout
-tags: []
+tags: ['retro', 'okr']
 ---
-
-*This is a reflection on 2020H1 based on my [personal okr
-planning]({% post_url 2020-08-30-okr %}). This is mostly written without an audience in
-mind.*
 
 # A Reflection on 2020 H1
 
@@ -210,7 +206,7 @@ actionable insights.
 Overall there was nothing outstanding done in 2020H1. We were mostly reaping the fruits of our
 labor in 2019H2 and adapting to this ever-changing environment.
 
-Next up in this seris of posts will be [2020H2 planning]({% post_url 2020-08-30-okr-planning-2020H2 %}).
+Next up in this seris of posts will be 2020H2 planning.
 
 # Appendix
 

@@ -2,7 +2,7 @@
 title: Sprint Planning - October
 date: '2020-10-04 08:11'
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 October sprint is going to be a little shorter ending on 2020-10-31. Since we're nearing the end of

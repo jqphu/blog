@@ -2,7 +2,7 @@
 title: Sprint Retrospective - Feburary
 date: 2021-02-27 18:58
 layout: PostLayout
-tags: []
+tags: ['sprint', 'retro', 'okr']
 ---
 
 ## Metrics

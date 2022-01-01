@@ -2,7 +2,7 @@
 title: Think Energy Not Time
 date: 2021-08-28 20:06:11
 layout: PostLayout
-tags: []
+tags: ['self-development', 'energy', 'time']
 ---
 
 Time. It always seems like there is never enough of it. It is the great equalizer. If only we had a

@@ -2,7 +2,7 @@
 title: Am I Lucky?
 date: 2021-07-02 16:16:30
 layout: PostLayout
-tags: []
+tags: ['luck', 'self-development']
 ---
 
 In the podcast How I Built This, Guy Raz explores the stories behind some of the best known

@@ -2,7 +2,7 @@
 title: Ethereum Name Server
 date: 2021-07-03 12:18:30
 layout: PostLayout
-tags: []
+tags: ['web3', 'etehreum', 'ens']
 ---
 
 I spent the last day just dabbling in Ethereum claiming the domain name `jqphu.eth`. To make this

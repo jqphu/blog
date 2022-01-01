@@ -2,7 +2,7 @@
 title: Ergodox configuration
 layout: PostLayout
 date: '2020-07-25'
-tags: ['keyboard', 'configuration', 'optimization']
+tags: ['keyboard', 'configuration', 'optimization', 'ergodox']
 ---
 
 I've been spending far too long asking myself questions like:

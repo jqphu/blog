@@ -2,7 +2,7 @@
 title: Sprint Planning - November
 date: 2020-11-01 13:23
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 November is here! This year has flow by!

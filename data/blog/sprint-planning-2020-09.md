@@ -2,7 +2,7 @@
 title: Sprint Planning - September
 date: '2020-08-30 17:00:30'
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 # September

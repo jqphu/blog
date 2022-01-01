@@ -2,7 +2,7 @@
 title: Sprint Planning - December
 date: 2020-11-29 14:50
 layout: PostLayout
-tags: []
+tags: ['sprint', 'planning', 'okr']
 ---
 
 Last month of the year and what a year it has been!

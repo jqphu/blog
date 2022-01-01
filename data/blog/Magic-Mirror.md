@@ -2,7 +2,7 @@
 title: Magic Mirror
 date: 2021-09-02 23:39:32
 layout: PostLayout
-tags: []
+tags: ['mirror']
 ---
 
 > Me: "Magic mirror on the wall, who is the fairest one of them all?"
