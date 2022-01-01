@@ -44,7 +44,7 @@ serious about this project. I wrote up my goals and a plan to execute. It was ca
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/project_alpha.jpg" alt="Project Alpha Diary Entry">
+  <img src="/static/images/blog/2020-08-15-images/project_alpha.jpg" alt="Project Alpha Diary Entry" />
   <figcaption> Project Alpha Diary Entry </figcaption>
 </center>
 </figure>
@@ -53,7 +53,7 @@ The last page had the Phase 1 timeline.
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/project_alpha_phase_1.jpg" alt="Project Alpha Phase 1">
+  <img src="/static/images/blog/2020-08-15-images/project_alpha_phase_1.jpg" alt="Project Alpha Phase 1" />
   <figcaption> Phase 1 Timeline </figcaption>
 </center>
 </figure>
@@ -103,7 +103,7 @@ First it was a little shaky:
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/tracker_broken.jpg" alt="Tracker Broken">
+  <img src="/static/images/blog/2020-08-15-images/tracker_broken.jpg" alt="Tracker Broken" />
   <figcaption> Testing the Tracker </figcaption>
 </center>
 </figure>
@@ -114,7 +114,7 @@ Eventually, I got the server to talk back to me!
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/tracker_success.jpg" alt="Tracker Success">
+  <img src="/static/images/blog/2020-08-15-images/tracker_success.jpg" alt="Tracker Success" />
   <figcaption> Tracker Acknowledging Requests </figcaption>
 </center>
 </figure>
@@ -123,7 +123,7 @@ The information was not very readable but it worked!
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/tracker_info.jpg" alt="Tracker Dumping Info">
+  <img src="/static/images/blog/2020-08-15-images/tracker_info.jpg" alt="Tracker Dumping Info" />
   <figcaption> Tracker Dumping My Info </figcaption>
 </center>
 </figure>
@@ -205,8 +205,8 @@ I added QR codes and printed them out.
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-15-images/qr_images.jpg" alt="QR Codes">
-  <figcaption> QR Codes PDF (yes I took a picture of my tablet - sue me :)) </figcaption>
+<img src="/static/images/blog/2020-08-15-images/qr_images.jpg" alt="QR Codes" />
+<figcaption> QR Codes PDF (yes I took a picture of my tablet - sue me :)) </figcaption>
 </center>
 </figure>
 

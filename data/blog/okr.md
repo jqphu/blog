@@ -88,9 +88,9 @@ for the half followed by monthly sprints to indicate what specific goal I am try
 with each month.
 
 Following this post I will follow it with 3 more:
-1. [Reflection on 2020 H1 goals]({% post_url 2020-08-30-reflection-2020H1 %})
-2. [2020 H2 OKRs]({% post_url 2020-08-30-okr-planning-2020H2 %})
-3. [Sprint planning for September]({% post_url 2020-08-30-sprint-planning-september %})
+1. Reflection on 2020 H1 goals
+2. 2020 H2 OKRs
+3. Sprint planning for September
 
 I will be writing up a late OKR planning for this half followed by the sprint of September.
 Hopefully, this will both keep me accountable but also give an example of what I think it means to

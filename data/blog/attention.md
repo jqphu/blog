@@ -46,9 +46,12 @@ done.  Most of the time is spent paging in old knowledge about the problem rathe
 ways to solve the problem at hand. We need to be aware of this phenomena and not mistake motion for
 progress.
 
-<center> <figure> <img src="/static/images/blog/2020-08-02-images/dont_mistake_motion_for_progress.png"
-alt="Don't Mistake Motion For Progress"> <figcaption>Don't Mistake Motion For Progress</figcaption>
-</figure> </center>
+<center>
+<figure>
+<img src="/static/images/blog/2020-08-02-images/dont_mistake_motion_for_progress.png" alt="Don't Mistake Motion For Progress" />
+<figcaption>Don't Mistake Motion For Progress</figcaption>
+</figure>
+</center>
 
 ## Focus Deeply
 
@@ -57,8 +60,12 @@ uncomfortable but should not be hard enough that you give up. This is the zone y
 to grow. Every time your attention diverges you pull yourself further and further away from this
 limit.
 
-<center> <figure> <img src="/static/images/blog/2020-08-02-images/context_switch.png" alt="ContextSwitch">
-<figcaption>Context Switch impact on Growth</figcaption> </figure> </center>
+<center>
+<figure>
+<img src="/static/images/blog/2020-08-02-images/context_switch.png" alt="ContextSwitch" />
+<figcaption>Context Switch impact on Growth</figcaption>
+</figure>
+</center>
 
 You can spend the whole day working on 10 different tasks and never reach the Cognitive Load
 required to grow your skills.

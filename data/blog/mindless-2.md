@@ -58,7 +58,7 @@ when we've mastered a topic?
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-29-images/feedback_loop.png" alt="Closed-loop System">
+  <img src="/static/images/blog/2020-08-29-images/feedback_loop.png" alt="Closed-loop System" />
   <figcaption> Closed-loop System </figcaption>
 </center>
 </figure>
@@ -160,7 +160,7 @@ decided I will use the application for a week in its half baked state.
 
 <figure>
 <center>
-  <img src="/static/images/blog/2020-08-29-images/mindless_data.png" alt="Mindless data">
+  <img src="/static/images/blog/2020-08-29-images/mindless_data.png" alt="Mindless data" />
   <figcaption> Mindless Data After A Week</figcaption>
 </center>
 </figure>
@@ -192,7 +192,7 @@ calendar day-to-day view of the app. I will skip a few days that I did not find 
 <figure>
 <center>
   <img src="/static/images/blog/2020-08-29-images/mindless_data_calendar_monday.png" alt="Mindless Data Calendar
-  Monday">
+  Monday" />
   <figcaption> Mindless Data Calendar - Monday</figcaption>
 </center>
 </figure>
@@ -220,7 +220,7 @@ continued tracking when the app wasn't even open.
 <figure>
 <center>
   <img src="/static/images/blog/2020-08-29-images/mindless_data_calendar_wednesday.png" alt="Mindless Data Calendar
-  Wednesday">
+  Wednesday" />
   <figcaption> Mindless Data Calendar - Wednesday</figcaption>
 </center>
 </figure>
@@ -245,7 +245,7 @@ start new tasks.
 <figure>
 <center>
   <img src="/static/images/blog/2020-08-29-images/mindless_data_calendar_thursday.png" alt="Mindless Data Calendar
-  Thursday">
+  Thursday" />
   <figcaption> Mindless Data Calendar - Thursday</figcaption>
 </center>
 </figure>
