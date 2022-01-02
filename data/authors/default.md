@@ -1,6 +1,5 @@
 ---
 name: Justin Phu
-avatar: /static/images/monkey.png
 occupation: Building things that are hopefully useful.
 email: me@justinphu.dev
 twitter: https://twitter.com/jqphu

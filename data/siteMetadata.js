@@ -2,13 +2,13 @@ const siteMetadata = {
   title: 'Justin\'s Blog',
   author: 'Justin Phu',
   headerTitle: 'Code Monkey',
-  description: 'Trying to make sense of my world.',
+  description: 'Software Engineer documenting the journey that is life. This is just me trying to make sense of my world. I write about system programming, self development and pretty much anything that pops into my head. Enjoy your time here :).',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.justinphu.dev',
   siteRepo: 'https://github.com/jqphu/blog',
-  // TODO: Favicon icon.
   siteLogo: '/static/images/monkey.png',
+  avatar: '/static/images/avatar.png',
   image: '/static/images/monkey.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'me@justinphu.dev',

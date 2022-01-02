@@ -1,10 +1,11 @@
 import Link from '@/components/Link'
+import siteMetadata from '@/data/siteMetadata'
 import SocialIcon from '@/components/social-icons'
 import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 
 export default function NowLayout({ children, frontMatter }) {
-  const { name, avatar, occupation, company, email, twitter, linkedin, github, ethereum, solana } = frontMatter
+  const { name, occupation, company, email, twitter, linkedin, github, ethereum, solana } = frontMatter
 
   return (
     <>
@@ -18,7 +19,7 @@ export default function NowLayout({ children, frontMatter }) {
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <div className="flex flex-col items-center pt-8 space-x-2">
             <Image
-              src={avatar}
+              src={siteMetadata.avatar}
               alt="avatar"
               width="192px"
               height="192px"
