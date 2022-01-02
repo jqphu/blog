@@ -24,15 +24,18 @@ export default function Home({ posts }) {
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
       <div className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
     <Link href="/now">
-    <img
-    className="align-middle inline"
+    <div className="flex justify-between items-center">
+    <Image
     src={siteMetadata.avatar}
     alt="avatar"
     width="128"
     height="128"
     />
     &nbsp;
+    <div className="flex-1">
     {siteMetadata.author}
+    </div>
+    </div>
     </Link>
     </div>
 
