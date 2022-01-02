@@ -3,6 +3,8 @@ title: Am I Lucky?
 date: 2021-07-02 16:16:30
 layout: PostLayout
 tags: ['luck', 'self-development']
+summary: "How much of success is luck versus skill. I explore the different types of luck and how it
+has applied to my life."
 ---
 
 In the podcast How I Built This, Guy Raz explores the stories behind some of the best known

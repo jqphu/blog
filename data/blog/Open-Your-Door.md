@@ -2,11 +2,13 @@
 title: Open Your Door
 date: 2021-10-24 12:25:30
 layout: PostLayout
-tags: ['self-development']
+tags: ['self-development', 'explore', 'exploit']
+summary: "Exploring the difference between finding the right problem to solve versus actually
+solving it. Exploring requires a variety of input whereas exploiting requires deep focus"
 ---
 If you've asked how work has been going recently I'd answer with I feel incredibly distracted. Frequent meetings and context switching. Within the span of a few hours I'll be talking for five different people about five separate problems.
 
-This seems to contradict one of the values I hold  deeply which is you cannot improve without [focusing deeply](https://blog.justinphu.dev/2020/08/02/attention/). I could *feel* these meetings I was having were important but I couldn't explain why[^1].
+This seems to contradict one of the values I hold deeply which is you cannot improve without [focusing deeply](https://blog.justinphu.dev/2020/08/02/attention/). I could *feel* these meetings I was having were important but I couldn't explain why[^1].
 
 It was only after watching Richard Hamming's lecture [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) did it click. Deep work is exceptionally effective when trying to execute on a problem. However, what do you do before you know what problem to solve? Finding the important problems requires a slightly different methodology.
 
