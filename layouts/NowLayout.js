@@ -12,7 +12,7 @@ export default function NowLayout({ children, frontMatter }) {
       <div className="divide-y">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            What I'm Doing <a className="underline" href="https://nownownow.com/about">Now</a>
+            What I&apos;m Doing <a className="underline" href="https://nownownow.com/about">Now</a>
           </h1>
         </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
