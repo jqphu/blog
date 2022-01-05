@@ -26,10 +26,11 @@ export default function Home({ posts }) {
     <Link href="/now">
     <div className="flex justify-between items-center">
     <Image
-    src={siteMetadata.avatar}
-    alt="avatar"
+    src={siteMetadata.nft}
+    alt="nft"
     width="128"
     height="128"
+    className="rounded-full"
     />
     &nbsp;
     <div className="flex-1">
