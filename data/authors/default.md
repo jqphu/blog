@@ -8,9 +8,9 @@ ethereum: https://app.ens.domains/name/jqphu.eth/details
 solana: https://naming.bonfida.org/#/domain/jqphu
 ---
 
-Last updated 2022-01-01.
+Last updated 2022-01-06.
 
-## Sydney? Bay Area? Unknown?
+## Location: Sydney? Bay Area? Unknown?
 Currently back at home in Sydney, Australia for the next month or so. Enjoying my time with my
 family and friends. Don't quite know where I'm going to live in the next few years. Maybe back to
 the bay, maybe in Sydney, maybe somewhere I don't even know yet! Let's find out.
@@ -45,4 +45,4 @@ but currently on holiday 💤. Hoping to attend Australian Open 2022 and see Nad
 ## Build
 Lastly, but definitely not least I'm refocusing from learning to building. I've done a ton of
 learning, reading and talking but not enough building. It's time to get my hands dirtier and do
-something!
+something! Looking into the world of web3 right now!
