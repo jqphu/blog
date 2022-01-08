@@ -6,13 +6,12 @@ tags: ['solana', 'rust', 'learning', 'anchor']
 summary: "Exploring Anchor from the ground up!"
 ---
 
+<TOCInline toc={props.toc} asDisclosure />
+
 As I've started to dabble in Solana I've found
 [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html) to be a part of
 my toolkit I can't live without! In this blog post we start from the fundamentals of a barebones
 Solana smart contract and see how Anchor plugs the gaps.
-
-<TOCInline toc={props.toc} asDisclosure exclude="Program Derived Addresses" />
-
 
 ## Hello World Program
 
