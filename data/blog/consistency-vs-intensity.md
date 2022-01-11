@@ -77,7 +77,7 @@ What does it mean to build a consistent framework for intensity?
 
 Going back to my original anecdote about working late at night. The reason this is so appealing is I
 get long periods of intense focused work. However, this cannot be maintained for a long time since it
-throws of my week. Instead, I need to schedule time for this intense focused work to ensure it is
+throws off my week. Instead, I need to schedule time for this intense focused work to ensure it is
 consistent. The answer to this is again to schedule deep work blocks.
 
 ## Defer Inspiration
@@ -88,14 +88,14 @@ consistent schedule. The technique to solve this is to defer inspiration. Captur
 immediately at the spark into a noting tool like Notion. You need to make this process seamless so
 your ideas don't escape. Then in your next intense block focus on it there.
 
-## Schedule Time Not Work for Intensity.
+## Schedule Time Not Work
 
 Getting into a state of flow is incredibly dynamic. You want to work on what you think is the most
 exciting and inspiring.
 
 Using this, I do not schedule what work I will do in my deep work / intense blocks. I simply block
 out the time and what I do is left open. This allows the flexibility to work on what has most
-recently inspired your or what is the most pressing. This increases the likely hood of getting into
+recently inspired you or what is the most pressing. This increases the likelihood of getting into
 a state of flow and intense work.
 
 Furthermore, by scheduling time I know I won't have back-to-back intense blocks which may overwhelm
