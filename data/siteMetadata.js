@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'Software Engineer documenting the journey that is life. This is just me trying to make sense of my world. I write about system programming, self development and pretty much anything that pops into my head. Enjoy your time here :).',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://blog.justinphu.dev',
+  siteUrl: 'https://justinphu.dev',
   siteRepo: 'https://github.com/jqphu/blog',
   siteLogo: '/static/images/monkey.png',
   avatar: '/static/images/avatar.png',
@@ -20,7 +20,7 @@ const siteMetadata = {
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
-    plausibleDataDomain: 'blog.justinphu.dev', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'justinphu.dev', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     googleAnalyticsId: 'UA-167304725-1', // e.g. UA-000000-2 or G-XXXXXXX
   },
