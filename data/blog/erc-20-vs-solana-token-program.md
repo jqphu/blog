@@ -3,7 +3,7 @@ title: ERC-20 vs Solana Token Program
 date: 2022-01-17 12:25:30
 layout: PostLayout
 tags: ['solana', 'ethereum', 'token', 'fungible']
-summary: "Exploring the differences between the approaches of implementing tokens in Ethereum and
+summary: "Exploring the differences between the approaches of implementing fungible tokens in Ethereum and
 Solana"
 ---
 
