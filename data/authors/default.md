@@ -8,41 +8,35 @@ ethereum: https://app.ens.domains/name/jqphu.eth/details
 solana: https://naming.bonfida.org/#/domain/jqphu
 ---
 
-Last updated 2022-01-06.
+Last updated 2022-06-18.
 
-## Location: Sydney? Bay Area? Unknown?
-Currently back at home in Sydney, Australia for the next month or so. Enjoying my time with my
-family and friends. Don't quite know where I'm going to live in the next few years. Maybe back to
-the bay, maybe in Sydney, maybe somewhere I don't even know yet! Let's find out.
+## Location: Canggu, Bali
+Enjoying the sunshine and delicious food in Bali! Hunkering down here for the next two months and
+building.
 
 ## Career
-[*Making the world a better place*](https://www.youtube.com/watch?v=B8C5sjjhsso) at Facebook, I
-mean, [Meta](https://about.facebook.com/meta/).
+Jumped into the deep end and decided to start my own company! Do I know what I'm doing? Absolutely
+not. Will I figure it out? Definitely! We're called Refract and have been exploring the web3 space.
 
-On a serious note, I'm at the first intersection in my career. Pivoting to something... I'm just not
-exactly sure what yet. Everything is up in the air from domain to company. Web3? AR? Meta? Google?
-It is both exciting and incredibly terrifying.
+I finally shipped a product into the real world which makes me happy. [sendthnx.com](https://sendthnx.com) was a small project we did.
 
-All I know now is it's time to find the [next hill to climb](https://cdixon.org/2009/09/19/climbing-the-wrong-hill).
+Exploring web3 to find a meatier problem.
 
-## Tech
+## Learning
+Back to learning and doing the [Macro engineering fellowship](https://0xmacro.notion.site/Welcome-to-Macro-Engineering-Fellowship-Pre-course-65d29f4193ba4461bf5ff30441c3a9a3). Getting deep into the weeds of Ethereum.
 
-### Web3
-A huge gigantic fad or the next generation of compute. I have no idea but I'm particularly
-interested in participating and finding out. Fascinated by the concept of a decentralized and open
-state machine. Ethereum and Solana have my interest. I am explicitly *not* interested in the finance
-side. I think it's fascinating but not what I want to build for. Protocols facilitating increase
-composability I can get around.
+## EVM
+Working on a Rust EVM implementation. Open source soon... It's super neat that there are heaps of
+test cases to run it through.
 
-### Rust
-Learning more and more Rust! I need a meatier project to write some more code. Starting on [Crafting
-Interpreters](https://craftinginterpreters.com/) in Rust [here](https://gitlab.com/justinqphu/crafting_interpreters).
+## Smart Contract Wallets
+A recent interest has been in creating better ways to do transactions. Examples include:
+  * 2fa approval of transactions
+  * creating a pay me link so you don't typo addresses
+  * withdrawal limits etc
+
+All of these seems like what we'd want to have in the future!
 
 ## Tennis
-Officially rated as a 3.5 tennis player. 4.0 is around the corner. Trying to play tennis 3x a week
-but currently on holiday 💤. Hoping to attend Australian Open 2022 and see Nadal. Looking to enter some tournaments!
-
-## Build
-Lastly, but definitely not least I'm refocusing from learning to building. I've done a ton of
-learning, reading and talking but not enough building. It's time to get my hands dirtier and do
-something! Looking into the world of web3 right now!
+I have not played for the last 6 months but looking to get back into it here in Bali. Hopefully I
+can get some coaching and play in some tournaments.
