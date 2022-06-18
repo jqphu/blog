@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/jqphu/blog',
   siteLogo: '/static/images/monkey.png',
   avatar: '/static/images/avatar.png',
-  nft: '/static/images/thingdom5209.png',
+  nft: '/static/images/nft.png',
   image: '/static/images/monkey.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'me@justinphu.dev',
