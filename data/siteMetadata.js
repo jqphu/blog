@@ -6,6 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://justinphu.dev',
+  siteUrlShort: 'justinphu.dev',
   siteRepo: 'https://github.com/jqphu/blog',
   siteLogo: '/static/images/monkey.png',
   avatar: '/static/images/nft.png',
