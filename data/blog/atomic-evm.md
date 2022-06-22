@@ -1,5 +1,5 @@
 ---
-title: Uniswap Leveraging EVM Atomicity 
+title: How Uniswap Leverages Atomicity in the EVM 
 date: 2022-06-21 16:33 
 layout: PostLayout
 tags: ['ethereum', 'uniswap', 'evm']
