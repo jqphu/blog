@@ -180,11 +180,13 @@ tag_5:
 Again, the `NotImmutable` case is fairly simple.
 Just read from contract storage calling `sload`.
 
-The `immutable` case is a little more interesting.
+The `Immutable` case is a little more interesting.
 It has this special `immutable`  assembly keyword that only the solidity compiler understands.
 We can assume the string is just a hash of the member variable that should be here.
 
-If we compare the bytecode between `NotImmutable` and `Immutable` we get.
+To figure out what this `immutable` assembly keyword does we have to go deeper!
+Let's look at the bytecode.
+Comparing the bytecode between `NotImmutable` and `Immutable` we get.
 
 ### Difference between bytecode for `getValue`
 ```diff
