@@ -11,7 +11,7 @@ A single slip of the finger or a slight lapse of judgement and you've lost all y
 There are no refunds.
 
 120M lost due to the BadgerDAO frontend hack.
-~7500 ether lost just a week ago due to a uniswap phishing attack.
+~7500 ether lost just a week ago due to a Uniswap phishing attack.
 Countless NFTs stolen with no recourse.
 
 This feels like it happens every other week that we've become numb to it.
@@ -55,7 +55,7 @@ This tiny change in text could be the difference between me losing my NFTs.
 In both of these cases, it is incredibly hard to see what is going on.
 You're relying on the frontend to display what changes should happen.
 
-The initial Uniswap transfer text would look exactly the same if uniswap was hacked and instead triggered a transfer of 1000 WETH and got nothing back.
+The initial Uniswap transfer text would look exactly the same if Uniswap was hacked and instead triggered a transfer of 1000 WETH and got nothing back.
 
 The fact that every transaction almost looks identical makes it easy to fall into transaction fatigue and sign everything you see.
 
@@ -75,7 +75,7 @@ It no longer takes a genius to know what is happening in a transfer.
 
 # Phishing websites
 Phishing websites are huge.
-We saw over 7500 ETH was lost with the uniswap phishing website just last week.
+We saw over 7500 ETH was lost with the Uniswap phishing website just last week.
 
 Today, our strategies to check phishing websites are insufficient.
 This is by checking the url, seeing if the webpage mimics another or manual blocklists.
@@ -86,9 +86,8 @@ We also maintain manual blocklists but they're **reactive**.
 Once we detect them it's too late.
 Funds are irreversibly lost.
 
-Even if you don't click that don't come from the official social media accounts.
-
-The problem is official social media's such as twitter and discord are frequently compromised e.g. [NounsDAO a month ago](https://twitter.com/cryptolycan/status/1541263212662132736).
+You can try to only click links from official social media accounts but that won't save you.
+Twitter and discords are frequently compromised e.g. [NounsDAO a month ago](https://twitter.com/cryptolycan/status/1541263212662132736).
 
 Now let's say you're **extra** cautious.
 You don't click anything but your bookmarked official links.
@@ -124,14 +123,14 @@ The `premint.xyz` hack was interesting.
 As a quick primer, the website was hacked and started requesting the NFTs from connected wallets.
 Specifically, the transaction was calling `setApprovalForAll`.
 
-This made me think, why would premint **ever** need `setApprovalForAll`.
+This made me think, when would premint **ever** need the permission for `setApprovalForAll`.
 The answer was never.
 
 What if there was a way wallets could respect that.
 
 There's a concept in app development known as a [permission manifest](https://developer.android.com/reference/android/Manifest.permission).
 If a phone wants some potentially dangerous permissions such as the camera or your location.
-They need to explicitly list it and google/apple will review it.
+They need to explicitly list it and Google or Apple will review it.
 
 What if applications were to publish a permission manifest for what wallet transactions they're allowed to invoke.
 If they need `setApprovalForAll` they need to clearly mention it in their manifest and why.
