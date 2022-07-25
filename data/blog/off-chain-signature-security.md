@@ -7,7 +7,7 @@ summary: "Exploring the different type of off-chain signatures and their attack 
 ---
 
 Signing data is a fundamental piece of crypto to ensure you've approved a given action.
-However, there are some signatures that are safe to call, otherwise which could result in you losing all your assets!
+However, there are some signatures that are safe to call, and others which could result in you losing all your assets!
 
 In this post, we're going to dig into off-chain signatures.
 Which ones are safe and which ones to never sign.
@@ -24,18 +24,17 @@ This is just a blob of data that says what you want to do.
 To ensure people can't impersonate you, you have to sign this piece of data[^1].
 
 This is what happens when you press `Confirm` in MetaMask.
-It will sign the data.
 
 ![Regular Metamask Transaction](/static/images/blog/2022-07-23-images/regular_transaction.png)
 
-Once signed, MetaMask will broadcast this so it can get included in a block.
+It will sign the data then MetaMask will broadcast this so it can get included in a block.
 As soon as you confirm, you can't take it back.
 Just like a regular signature - signing is binding.
 
 # Off-chain Signing
 
 Off-chain signing (also known as gasless signatures) are signatures that may not be broadcasted immediately or at all. 
-This is typically used when you need to sign a message to prove ownership over a address.
+This is typically used when you need to sign a message to prove ownership over an address.
 
 ![PersonalSign MetaMask](/static/images/blog/2022-07-23-images/personal_sign.png)
 
@@ -65,11 +64,11 @@ Once you've signed it, you've approved it and the attack and submit it whenever 
 
 The huge issue here is it's just a bunch of garbage hex.
 That hex could do anything from drain your wallet, take your NFTs, etc.
-Theres no revoking you can do after you've signed the message.
-A signature here is binding.
+There is no revoking you can do after you've signed the message.
+A signature here is binding and held by the attacker.
 
 The good news is MetaMask provides a very scary warning indicating you should really not call this method.
-Ideally, this method gets phased out entirely but compatibility reasons are painful.
+Ideally, this method gets phased out entirely but backwards compatibility is painful.
 
 ## `personal_sign`
 
@@ -87,9 +86,8 @@ The most important difference is `personal_sign`  prefixes the content you're go
 `"\x19Ethereum Signed Message:\n" + len(message)"`.
 
 This little difference means **no matter what you sign, it cannot be used as a transaction**.
-Unlike `eth_sign` this message cannot be used as a transaction.
 It cannot be used to transfer ether, approve NFTs or interact with smart contracts. 
-It should be able to be used to change any blockchain state [^2].
+It should not be able to be used to change any blockchain state [^2].
 
 The second difference is the text you're signing should be ascii i.e. plain text.
 You should be able to read the message you're signing.
