@@ -8,25 +8,28 @@ summary: "Recounting my experience in Bali with no idea what to do for my startu
 
 I found myself in Bali, Indonesia with one goal and one goal only - find an idea for my startup.
 
-I had just finished a three month accelerator (HF0) in Miami where I tried a variety of ideas with my co-founder.
+I had just finished a three month accelerator (HF0) in Miami where I tried a variety of ideas.
 Despite learning a lot, all of the ideas amounted to nothing.
-Nish (my co-founder) and I needed to decide what we were going to work on.
 I had just left my job at Meta where I was newly promoted to a Staff Engineer (E6) to pursue this startup but we had no idea what we were doing.
+Nish (my co-founder) and I needed to decide what we were going to work on.
 We decided to shut ourselves away from the world by flying to Bali and focus entirely on the startup.
 This blog post is my account of how the three months went!
 
 ### Jun 15th - Touchdown in Bali
-Nish and I were excited to continue working in crypto but we watched enough y-combinator videos to know that we needed to solve a real problem.
+Nish and I were excited to continue working in crypto but we watched enough YC videos to know that we needed to solve a real problem.
+No hypothetical use-case that would be realized in a year.
 A problem that the market would pull from us that only we could solve.
+
 The plan was pretty simple.
-Spend the first 6 weeks working on wondering, find an idea and validate it in the next 6 weeks.
-We needed to first get more knowledge on what are the killer use-cases in crypto, what is the user experience like, what opportunities to solve real problems do we see.
-I did this through doing Macro Engineering Fellowship (https://0xmacro.com/engineering-fellowship) and learning more about smart contracts.
+Spend the first 6 weeks learning and trying things. Then pick an idea and validate it in the next 6 weeks.
+I decided to start by doing Macro Engineering Fellowship (https://0xmacro.com/engineering-fellowship) and learning more about smart contracts.
 Nish went on a grand tour of crypto writing [one pagers](https://nishthenomad.notion.site/Product-Scrapbook-5946d2e0ed5c4c019bba249cde58d64c) about DeFi, ZeroKnowledge Proofs, Stablecoins!
+
 We had some ideas:
 * Reputation system for DeFi for better loans
 * Lending based on future income
 * Transferring ETH safely without typos
+
 However, none of them 10x. None of them felt **real**.
 
 ## June 29th - Time to Code!
@@ -46,11 +49,11 @@ In the meantime, Nish and I explored how we could take this idea to the next lev
 
 The first thing we thought was, this user experience was a bit cumbersome.
 Having to open up a new browser every time to confirm a transaction kind of sucks.
-Let's meet users where they are with a chrome extension.
-The majority of users were using metamask so what if we could just display information there.
+Let's meet users where they are with a Chrome extension.
+The majority of users were using MetaMask so what if we could just display information there.
 
 Nish begins to go validate that this is a real problem by searching through twitter of people saying they've been scammed.
-I begin playing with chrome extensions and building out the first iteration.
+I begin playing with Chrome extensions and building out the first iteration.
 
 After chatting to Stanley to see if he was planning on taking this project further it seemed like he wasn't.
 So we went ahead and said let's just try it out.
@@ -58,17 +61,17 @@ Let's build something and if it amounts to nothing who cares.
 We set out to find 3-5 users that would be willing to try out our extension.
 
 To my surprise Nish managed to find those users in a heartbeat.
-I guess this was a real problem because they were willing to try a random chrome extension from an unknown person on twitter.
+I guess this was a real problem because they were willing to try a random Chrome extension from an unknown person on twitter.
 
 ![Screenshot 2023-01-04 at 10.15.03 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.15.03 AM.png>)
 
 ## July 5th - The MVP
 The idea of the MVP was fairly simple.
 
-1. Install a chrome extension.
-2. Associate each chrome extension with a unique identifier (e.g. `a13b80dd`.
-3. Craft a unique node url (`http://pocketuniverse.app/rpc/a13b80dd`) for the user to put in Metamask.
-4. Now when Metamask wants to send a request, they'd send it to us. We'd run that through Tenderly and analyze the output to see if there are any scams.
+1. Install a Chrome extension.
+2. Associate each Chrome extension with a unique identifier (e.g. `a13b80dd`).
+3. Craft a unique node url (`http://pocketuniverse.app/rpc/a13b80dd`) for the user to put in MetaMask.
+4. Now when MetaMask wants to send a request, they'd send it to us. We'd run that through Tenderly and analyze the output to see if there are any scams.
 
 Tech Stack:
 * Chrome extension
@@ -79,16 +82,16 @@ By July 9th we had the MVP complete but there were a two issues.
 Installing the extension with the custom RPC node required a very convoluted process of going into the settings of MetaMask.
 Stanley warned me of this but we decided to proceed anyway.
 
-Secondly, we couldn't trigger the chrome extension to popup through our server.
+Secondly, we couldn't trigger the Chrome extension to popup through our server.
 It requires the user to take an action.
 Remembering to click our extension would be behavior we would have to make them learn.
 That's always complicated.
 
-So what did we do, back to the drawing board. How can we make this experience better.
+Back to the drawing board. We needed to make this experience better.
 
 ## July 9th - The MVP again!
 After brainstorming some ideas we ended up going with a simple insight "why don't we just be the wallet".
-Instead of being an RPC node that MetaMask sends requests to, what if we capture the request first and never send it to MetaMask at all!
+Instead of being an RPC node that MetaMask sends requests to, what if we pretend to be a wallet to capture the request first and never send it to MetaMask at all.
 
 This has the benefit of never signing a malicious transaction as it will never get to your wallet.
 This means we will be able to solve both problems:
@@ -96,7 +99,7 @@ This means we will be able to solve both problems:
 - We can trigger the popup since the event came from the webpage itself (user action).
 
 At the same time, I was learning more about web technologies.
-Note, my background prior to this was deep into operating systems.
+Note, my background prior to this was operating systems.
 We didn't use EC2 instances, we were building the thing EC2 instances run on - a kernel!
 
 I came across this AWS Lambda.
@@ -111,11 +114,11 @@ Tech Stack:
 
 Not only did I re-write the extension entirely, I re-wrote the backend entirely too. Fun.
 
-We finished the second MVP by July 12th and had it ready in the chrome store by July 14th!
+We finished the second MVP by July 12th and had it ready in the Chrome store by July 14th!
 
 ## July 14th - SHIP SHIP SHIP
 
-What we learnt from watching infinite Y-combinator videos was we needed to get our product in the hands as fast as possible.
+What we learnt from watching infinite YC videos was we needed to get our product in the hands of users as fast as possible.
 So we did that by finding anyone we could who had been scammed to see if this would help them.
 They've felt the pain before so we'd hope they'd be yearning for a solution.
 
@@ -143,6 +146,8 @@ Slowly, but steadily we started getting more users.
 
 ![Screenshot 2023-01-04 at 10.25.25 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.25.25 AM.png>)
 
+Our Twitter started growing.
+
 ![Screenshot 2023-01-04 at 10.28.08 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.28.08 AM.png>)
 
 We started getting noticed.
@@ -150,7 +155,7 @@ We started getting noticed.
 ![Screenshot 2023-01-04 at 10.28.48 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.28.48 AM.png>)
 
 With more users comes more problems.
-- The extension doesn't work on this website
+- The extension doesn't work on certain websites
 - The extension works too much - it is popping up twice!
 - There's this weird mint where nothing happens
 - The serverless functions are timing out
@@ -164,11 +169,11 @@ I was so happy to have 20 users, it was insane to have 1000.
 
 The one problem that continued to plague us was our simulations kept timing out and they were slow.
 Our P99 was over 2 seconds.
-This was bad because a mint can be very hot and if we take too long people will uninstall us.
-Around this time as well, we signed our first deal with a wallet to use our API.
 
 ![Pasted image 20230104104913.png](</static/images/blog/2023-01-04-images/Pasted image 20230104104913.png>)
 
+This was bad because a mint can be very contested and if we take too long people will uninstall us.
+Around this time as well, we also signed our first deal with a wallet to use our API.
 I didn't want us to lose that deal because our API was too slow.
 I asked myself the dangerous question "what if replace this service with something we do in-house".
 
@@ -176,7 +181,9 @@ All I really needed to do was run the EVM.
 We could optimize things since we didn't care about historical simulations and only wanted to run on the latest block.
 I had a lot of ideas on how we could make it really fast.
 
-So I decided, let's still use a node for the blockchain data but run the simulation ourselves using our own EVM.
+Now generally I would be very hesitant to bring more things in-house. Maintence overhead is insane especially this early on when we've barely cracked 1000 users. However, this part of the stack was critical to our business and the user experience so we decided to try it.
+
+The plan was to still use a node like Alchemy for the blockchain data but run the simulation ourselves using our own EVM.
 ## July 31st - Building the MVP Simulator
 I decided to write the simulator in Rust.
 
@@ -185,7 +192,7 @@ Why?
 Not quite because of safety.
 Not quite because of performance.
 Just because I wanted to and enjoyed the language.
-Being the only engineer on the team, whatever I was most productive in mattered the most.
+Being the only engineer on the team, whatever I was productive in mattered the most.
 
 After a week we had a basic simulator running which could process transactions.
 It would use Alchemy and Quicknode to get the blockchain data.
@@ -215,14 +222,14 @@ This would cause the request to fail since the number wasn't found.
 
 Correctness and stability was much more important that speed.
 However, Alchemy was not much better than just using Tenderly.
-Did I just waste a week?
+Did I just waste my time?
 
 ## August 4th - Do Everything Yourself
 I thought to myself, the EVM is trivial - what's taking so long.
 The reason was we were getting all the data over the network.
 
 If the EVM was on the same machine as the ETH Node itself it would be just as fast as reading from disc.
-There's NO way running the EVM (which is incredibly simplistic) and reading from disc should be that slow.
+There's no way running the EVM (which is incredibly simplistic) and reading from disc should be that slow.
 
 So... why don't we just run our own node.
 
@@ -232,11 +239,12 @@ At some point I wanted to have the simulator be part of the node itself so picki
 
 Syncing the node took FOREVER so I asked the Akula team how to speed it up.
 They recommended I get a bare metal machine with a SSD and dedicated resources.
-It has a super fast SSD, it was cheaper, we had a consistent workload - what could go wrong.
+It has a super fast SSD, it was cheaper and we had a consistent workload - what could go wrong.
 
 Next thing I knew I had a Hertzner bare metal server running an eth node.
 
-Once the node was synced I was too excited that I forgot to sleep.
+Once the node was synced I was too excited that I couldn't sleep.
+I had to get it working.
 At 7AM I finally got everything working and the numbers were amazing.
 
 ![Screenshot 2023-01-04 at 10.43.46 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.43.46 AM.png>)
@@ -266,10 +274,10 @@ Surprisingly - everything worked fine!
 
 ![Screenshot 2023-01-04 at 10.54.28 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.54.28 AM.png>)
 
-Now our simulations were < 150ms, fetching metadata would take >500ms and was our new bottle neck. As a quick fix, our metadata service was located in the US so we just moved our simulator to a datacenter in the US to shaved some time there.
+Now our simulations were < 150ms, fetching metadata would take >500ms and was our new bottleneck. As a quick fix, our metadata service was located in the US so we just moved our simulator to a datacenter in the US to shaved some time there.
 
-With some quick optimizations today our simulation latency P99 is < 50ms. Our overall P99 latency is ~700ms and P50 ~500ms. A majority simply fetching data from other services.
-This was fast enough that the simulation time wasn't noticable.
+With some quick optimizations today our simulation latency P99 is < 50ms. Our overall P99 latency is ~700ms and P50 ~500ms. A majority of the time simply fetching data from other services.
+This was fast enough that the simulation time wasn't noticeable.
 I have plenty of ideas to make it **even faster** but that's for another day.
 
 Tech Stack:
@@ -290,15 +298,20 @@ I could sync a new node, but that'd take 72 hours.
 I quickly patched it by pointing to alchemy but that spiked our simulation time to 2-3 seconds.
 I tried using QuickNode but we ran into the previous issue of it crashing.
 
-The next 2 hours was me firefighting figuring out how to fix things. Talking to the Akula devs and running any command I could.
 
 ![Screenshot 2023-01-04 at 10.56.43 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.56.43 AM.png>)
+
+The next 2 hours was me firefighting figuring out how to fix things. Talking to the Akula devs and running any command I could.
+
 ![Pasted image 20230104154020.png](</static/images/blog/2023-01-04-images/Pasted image 20230104154020.png>)
+
+Eventually I fixed it and everything was back to normal!
+
 
 We clearly weren't ready to handle disaster scenarios so I spent the rest of the week working on that.
 Adding an on-call so I'd get a phone call when things went wrong.
 Adding more monitoring for datadog so we can find issues.
-Adding a cloud flare load balancer to automatically shift load if issues were found.
+Adding a CloudFlare load balancer to automatically shift load to a backup server if issues were found.
 
 Tech Stack:
 * Chrome extension
@@ -308,7 +321,7 @@ Tech Stack:
 * Docker
 * CloudFlare
 
-## It's time to go home
+## Learnings
 Before I knew it, it was time to head back to Australia.
 
 I was too busy building infrastructure and product features that I didn't internalize that we had almost 5,000 users!
@@ -319,6 +332,7 @@ Technical mistakes, product mistakes and business mistakes.
 But there was one thing we did right which was make those mistakes quickly.
 We built, threw things away, built again.
 
-At the end of the day, I left Bali satisfied. I didn't just hit my goal of finding an idea but we had thousands of users.
+I learnt it's important to own parts of the stack that are critical to your business.
+Even if there aren't many performance improvements, the understanding of what's going on is incredibly useful.
 
-Little did I know, I was just getting started on this journey.
+At the end of the day, I left Bali satisfied. I didn't just hit my goal of finding an idea but were helping thousands of people not lose their money every single day. Little did I know, this was just the start of the journey.
