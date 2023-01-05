@@ -123,7 +123,7 @@ So we did that by finding anyone we could who had been scammed to see if this wo
 They've felt the pain before so we'd hope they'd be yearning for a solution.
 
 We managed to ship to 6 customers in the first week.
-We were **extatic**.
+We were **ecstatic**.
 Someone, anyone was using something we built.
 
 Here's a snippet from our notion.
@@ -195,7 +195,7 @@ Just because I wanted to and enjoyed the language.
 Being the only engineer on the team, whatever I was productive in mattered the most.
 
 After a week we had a basic simulator running which could process transactions.
-It would use Alchemy and Quicknode to get the blockchain data.
+It would use Alchemy and QuickNode to get the blockchain data.
 
 I set up a stress test to measure the latency.
 I listened to every transaction in the mempool and replayed it with our custom simulator.
@@ -206,7 +206,7 @@ Alchemy
 - median - 102ms
 - P99 - 2025ms
 
-Quick Node
+QuickNode
 - median - 13ms
 - P99 - 262ms
 
@@ -274,7 +274,7 @@ Surprisingly - everything worked fine!
 
 ![Screenshot 2023-01-04 at 10.54.28 AM.png](</static/images/blog/2023-01-04-images/Screenshot 2023-01-04 at 10.54.28 AM.png>)
 
-Now our simulations were < 150ms, fetching metadata would take >500ms and was our new bottleneck. As a quick fix, our metadata service was located in the US so we just moved our simulator to a datacenter in the US to shaved some time there.
+Now our simulations were < 150ms, fetching metadata would take >500ms and was our new bottleneck. As a quick fix, our metadata service was located in the US so we just moved our simulator to a datacenter in the US to shave some time there.
 
 With some quick optimizations today our simulation latency P99 is < 50ms. Our overall P99 latency is ~700ms and P50 ~500ms. A majority of the time simply fetching data from other services.
 This was fast enough that the simulation time wasn't noticeable.
