@@ -36,3 +36,15 @@ Purchased a simple home gym setup in our backyard. I'm doing 5/3/1 for beginners
 ## 🧘 Yoga and rehab
 
 I've done Yoga 45 times in the last 60 days! Trying to do it once every second day to help improve flexibility. My knees have been hurting from playing a bit too much tennis and not strengthening the body. Hoping to be a little more all rounded with my strength.
+
+## 💇 I cut off all my hair 
+
+After about 2 years of growing out my hair I decided to cut it off. It was time for a change and it started becoming a bit of a maintenance headache.
+So I cut it all off and I now have a buzz cut :D. From one extreme to another.
+
+It is quite refreshing to not have to worry at all about my hair. Nish also has a pair of clippers so I just cut it at home.
+
+
+## 🏃 Ran a half marathon
+
+Ran a half marathon last month. Never though I'd ever do it but here we are. I'm starting to be okayish with running. I still dislike it but I dislike it less than I did a year ago :)
