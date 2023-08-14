@@ -17,7 +17,6 @@ const siteMetadata = {
   github: 'https://github.com/jqphu',
   twitter: 'https://twitter.com/jqphu',
   ethereum: 'https://app.ens.domains/name/jqphu.eth/details',
-  solana: 'https://naming.bonfida.org/#/domain/jqphu',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics

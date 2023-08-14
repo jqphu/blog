@@ -5,38 +5,34 @@ email: me@justinphu.dev
 twitter: https://twitter.com/jqphu
 github: https://github.com/jqphu
 ethereum: https://app.ens.domains/name/jqphu.eth/details
-solana: https://naming.bonfida.org/#/domain/jqphu
 ---
 
-Last updated 2022-06-18.
+Last updated 2023-08-14.
 
-## Location: Canggu, Bali
-Enjoying the sunshine and delicious food in Bali! Hunkering down here for the next two months and
-building.
+# Location: San Francisco, USA
 
-## Career
-Jumped into the deep end and decided to start my own company! Do I know what I'm doing? Absolutely
-not. Will I figure it out? Definitely! We're called Refract and have been exploring the web3 space.
+Finally made it back to the bay, just patiently waiting for the sun to come back.
+Found a nice 5bd apartment to live with my co-founder and friends. We're always happy to have people come stay for a while.
 
-I finally shipped a product into the real world which makes me happy. [sendthnx.com](https://sendthnx.com) was a small project we did.
+## 🔨 Hunkering down in the bear market and building
+Building [Pocket Universe](https://pocketuniverse.app) and trying to keep people in crypto safe from scams! I'm certain this will be crucial in the future of crypto just navigating what the best form factor for this product is. Also looking to grow the team a little.
 
-Exploring web3 to find a meatier problem.
+It's fulfilling being able to save people money and shipping a product that users find valuable!
 
-## Learning
-Back to learning and doing the [Macro engineering fellowship](https://0xmacro.notion.site/Welcome-to-Macro-Engineering-Fellowship-Pre-course-65d29f4193ba4461bf5ff30441c3a9a3). Getting deep into the weeds of Ethereum.
+Bear market is definitely tough as the number of users in crypto are dwindling and there seem to be very few real use-cases outside of speculation. I'm overall still bullish on crypto but need to find conviction on what direction it takes.
 
-## EVM
-Working on a Rust EVM implementation. Open source soon... It's super neat that there are heaps of
-test cases to run it through.
+## 🎾 Playing tennis semi-competitively
 
-## Smart Contract Wallets
-A recent interest has been in creating better ways to do transactions. Examples include:
-  * 2fa approval of transactions
-  * creating a pay me link so you don't typo addresses
-  * withdrawal limits etc
+Been playing tennis 2-3 times a week consistently. Recently got a ball machine which I've been trying to put more into my schedule.
 
-All of these seems like what we'd want to have in the future!
+I upgraded my tennis rating from 3.5 USTA to 4.0 USTA despite still not having a singles USTA win under my belt. I'll get my first win this year!
 
-## Tennis
-I have not played for the last 6 months but looking to get back into it here in Bali. Hopefully I
-can get some coaching and play in some tournaments.
+Playing the UTR flex league starting next month as well as signing up for a few tournaments.
+
+## 🏋️ Bringing back my old goal of reaching 1000lb total (that's my 1 rep max of bench, squat and deadlift totaling over 1000lbs)
+
+Purchased a simple home gym setup in our backyard. I'm doing 5/3/1 for beginners in the hopes of getting back to reaching the elusive 1000lb total. Going to remind myself to start off slow and not injure myself. Slow progress is better than no progress.
+
+## 🧘 Yoga and rehab
+
+I've done Yoga 45 times in the last 60 days! Trying to do it once every second day to help improve flexibility. My knees have been hurting from playing a bit too much tennis and not strengthening the body. Hoping to be a little more all rounded with my strength.
